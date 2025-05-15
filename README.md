@@ -11,7 +11,6 @@ Render it in the webpage be sure the author of the posts is well rendered with t
 
 - First name & Last name 
 - Also, when clicked it should show a modal with the following details of the user, the data is provided in users api. (All of the info should be present except id)
--
 
 A search mechanism should be placed with the following filters:
 
